@@ -3,6 +3,8 @@
 
 ## Requisitos
 
+Tener instalado un compilador de lenguaje c++ (Clion, Visual Studio, etc)
+
 ## Reglas del juego
 
 Se juega con un tablero con diferentes formas según el modelo o el lugar de origen. Al inicio del juego están todos los espacios ocupados, excepto por uno. El jugador debe mover una pieza por vez. Las piezas sólo pueden moverse capturando mediante un "salto" sobre otra, como en las damas. Sólo se puede capturar en horizontal o en vertical, nunca en diagonal. Así, al principio, sólo pocas tienen posibilidad de moverse, capturando una. El objetivo del juego es eliminar todas las piezas, dejando sólo una en el tablero.
@@ -10,14 +12,16 @@ Se juega con un tablero con diferentes formas según el modelo o el lugar de ori
 ## Instrucciones de uso
 - Ejecutar el programa
 
--Elegir que tipo te tablero se desea jugar (Opc 1-3), en todo caso terminar el programa (Opc 0)
+- Elegir que tipo te tablero se desea jugar (Opc 1-3), en todo caso terminar el programa (Opc 0)
 
--Elegir la posicion de la ficha la cual se quiere mover, ingresando los datos de la fila y luego de la columna (Fila,Columna).El programa reconocera si la ficha elegida es jugable.
+- Elegir la posicion de la ficha la cual se quiere mover, ingresando el dato de la fila y luego de la columna (Fila,Columna).El programa reconocera si la ficha elegida es jugable.
 
--Elegir la posicion final a la cual se desea mover, primero ingresando la fila y luego la columna
+- Elegir la posicion final a la cual se desea mover, primero ingresando la fila y luego la columna (Fila,Columna). El programa reconocera si la ficha elegida es jugable.
 
 ## Integrantes
 
--Christopher Briceño Carbajal
+- Christopher Briceño Carbajal
 
--Diego Ñaña Mejia
+- Diego Ñaña Mejia
+
+- Fernando Bustamante Rivera
