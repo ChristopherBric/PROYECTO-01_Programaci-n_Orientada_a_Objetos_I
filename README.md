@@ -13,4 +13,5 @@ Se juega con un tablero con diferentes formas según el modelo o el lugar de ori
 ## Integrantes
 
 -Christopher Briceño Carbajal
+
 -Diego Ñaña Mejia
